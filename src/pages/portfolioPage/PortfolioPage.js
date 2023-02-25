@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
-// import Navbar from "../../components/navbar/Navbar";
-import CardPage from "../CardPage";
+import CardPage from "./CardPage";
 
 import avatar from "../../img/monica.jpg";
 import iconCard from "../../icon/card.svg";
